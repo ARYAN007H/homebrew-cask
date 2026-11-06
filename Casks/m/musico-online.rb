@@ -2,8 +2,7 @@ cask "musico-online" do
   version "0.8.0"
   sha256 "d4ce78c65f852c1d607073653d91090f6b04b0f134fab461ab811e3cab73233c"
 
-  url "https://github.com/ARYAN007H/Musico-online/releases/download/v#{version}-online/Musico.Online_#{version}_universal.dmg",
-      verified: "github.com/ARYAN007H/Musico-online/"
+  url "https://github.com/ARYAN007H/Musico-online/releases/download/v#{version}-online/Musico.Online_#{version}_universal.dmg"
   name "Musico Online"
   desc "Local-first desktop music player with an online catalog"
   homepage "https://aryanch007h.github.io/Musico/"
